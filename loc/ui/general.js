@@ -10,7 +10,7 @@ export default {
     es: 'Bien',
     tr: 'Tamam',
     nl: 'Okee',
-    pt: 'Claro',
+    pt: 'OK',
     ko: '확인',
     ro: 'Okay',
     zh: '確定',
@@ -147,18 +147,21 @@ export default {
   reset: {
     en: 'Reset',
     fr: 'Réinitialiser',
+    pt: 'Reiniciar',
     tr: 'Sıfırla'
   },
 
   disable: {
     en: 'Disable',
     fr: 'Désactiver',
+    pt: 'Desativar',
     tr: 'Devre dışı bırak'
   },
 
   playername: {
     en: 'Enter player name',
     fr: 'Entrez le nom du joueur',
+    pt: 'Entre com o nome do Jogador',
     tr: 'Oyuncu ismi gir'
   },
 
@@ -171,24 +174,28 @@ export default {
   all: {
     en: 'All',
     fr: 'Tous',
+    pt: 'Todos',
     tr: 'Hepsi'
   },
 
   filter: {
     en: 'Filter',
     fr: 'Filtrer',
+    pt: 'Filtro',
     tr: 'Filtre'
   },
 
   apply: {
     en: 'Apply',
     fr: 'Appliquer',
+    pt: 'Aplicar',
     tr: 'Uygula'
   },
 
   default: {
     en: 'Default',
     fr: 'Défaut',
+    pt: 'Padrão',
     tr: 'Varsayılan'
   },
 
@@ -196,6 +203,7 @@ export default {
   find: {
     en: 'Find',
     fr: 'Trouver',
+    pt: 'Procurar',
     tr: 'Ara'
   },
 
@@ -203,24 +211,28 @@ export default {
   searching: {
     en: 'Searching...',
     fr: 'Recherche...',
+    pt: 'Procurando...',
     tr: 'Aranıyor...'
   },
 
   learnable: {
     en: 'Learnable Lv.',
     fr: 'Apprenable Niv.',
+    pt: 'Aprendizagem Niv.',
     tr: 'Öğrenilebilir Svy.'
   },
 
   cost: {
     en: 'Cost',
     fr: 'Coût',
+    pt: 'Custo',
     tr: 'Bedel'
   },
 
   noOptions: {
     en: 'No options',
     fr: 'Pas d\'options',
+    pt: 'Sem opções',
     tr: 'Seçenek yok'
   }
 }
