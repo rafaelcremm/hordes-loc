@@ -284,7 +284,7 @@ export default {
       ko: '캐릭터 삭제',
       tr: 'Sil',
       nl: 'Verwijder',
-      pt: 'Eliminar',
+      pt: 'Apagar',
       ro: 'Șterge',
       zh: '刪除',
       hu: 'Törlés',
